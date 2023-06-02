@@ -1,9 +1,11 @@
 package br.newtonpaiva.ui;
 
 import br.newtonpaiva.dominio.Categoria;
-import jakarta.persistence.EntityManager;
-import jakarta.persistence.EntityManagerFactory;
-import jakarta.persistence.Persistence;
+
+import javax.persistence.EntityManager;
+import javax.persistence.EntityManagerFactory;
+import javax.persistence.Persistence;
+
 
 public class Create {
     public static void main(String[] args) {
